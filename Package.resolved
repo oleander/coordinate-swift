@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Distance",
+        "repositoryURL": "/Users/oleander/Documents/Projekt/Distance",
+        "state": {
+          "branch": "master",
+          "revision": "bd3dc3bb534d0fda703cf379f3da3354e09d56b5",
+          "version": null
+        }
+      },
+      {
+        "package": "Regex",
+        "repositoryURL": "https://github.com/crossroadlabs/Regex.git",
+        "state": {
+          "branch": null,
+          "revision": "f144250678e4c13f1d820ffa265a8326b25bcd86",
+          "version": "1.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
