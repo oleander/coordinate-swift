@@ -1,5 +1,7 @@
 # Coordinate
 
+[![Build Status](https://travis-ci.org/oleander/coordinate-swift.svg?branch=master)](https://travis-ci.org/oleander/coordinate-swift)
+
 A Swift library for handling coordinates.
 
 ## Example
